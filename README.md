@@ -1,4 +1,4 @@
-Queek/n
+Queek
 Stage 1(level 10)
   Stormvermin(both variants):
     +5 MD
