@@ -1,3 +1,5 @@
+MD: Melee Defence, MA: Melee Attack, PR: Physical Resistance
+
 # Queek
 ## Stage 1(level 10)
   * Stormvermin(both variants):
