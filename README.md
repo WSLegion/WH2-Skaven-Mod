@@ -1,7 +1,7 @@
-Queek
-Stage 1(level 10)
-  Stormvermin(both variants):
-    +5 MD
+#Queek
+##Stage 1(level 10)
+  *Stormvermin(both variants):
+    *+5 MD
   Stormvermin(Halberd):
     +4 Anti-Large Bonus
   Stormvermin(Sword & Shield):
