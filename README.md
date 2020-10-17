@@ -60,7 +60,7 @@ MD: Melee Defence, MA: Melee Attack, PR: Physical Resistance
     * +10 Melee Attack
     * +150% AP-Melee Damage
     * Enable Unbreakable for Clanrats units
-    * Recruitment Duration -1 for Clanrats units
+    * Recruitment Duration -1 for Clanrats units (This one is mainly for Global recruitment, please correct me if it does not apply to global recruitment)
     * Grant "Rat Swarm" Ability to all Clanrats units
     * "Rat Swarm" allow you to summon a unit of Clanrats, has one charge per battle. (Vermintide that does not cost WOM, keep in mind summoned units DO NOT benefit from lord skills and traits!)
 
