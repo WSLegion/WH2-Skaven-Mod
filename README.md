@@ -20,7 +20,6 @@ MD: Melee Defence, MA: Melee Attack, PR: Physical Resistance
   * Stormvermin(both variants):
     * +20 MD
     * +30 PR
-    * Enable Unbreakable
   * Stormvermin(Halberd):
     * +18 Anti-Large Bonus
   * Stormvermin(Sword & Shield):
