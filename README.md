@@ -1,6 +1,6 @@
 MD: Melee Defence, MA: Melee Attack, PR: Physical Resistance
 
-# Queek
+# Tretch
 ## Stage 1(level 10)
   * Stormvermin(both variants):
     * +5 MD
@@ -45,28 +45,25 @@ MD: Melee Defence, MA: Melee Attack, PR: Physical Resistance
   * Plagueclaw Catapult:
     * Explosion damage no longer affects allied units
 
-# Tretch
+# Queek
 ## Stage 1(level 10)
-  * Doom Wheels:
-    * +7% Magic Resistance
-  * Poisoned Wind Globadiers and Death Globe Bombardiers:
-    * +5% Range
+  * Clanrats:
+    * +2 Melee Attack
+    * +50% AP-Melee Damage
 ## Stage 2(level 20)
-  * Doom Wheels:
-    * +2% Ward Save
-    * +15% Magic Resistance
-  * Poisoned Wind Globadiers and Death Globe Bombardiers:
-    * +10% Range
-    * +5% Reload Speed
+  * Clanrats:
+    * +5 Armour
+    * +5 Melee Attack
+    * +100% AP-Melee Damage
 ## Stage 3(level 30)
-  * Doom Wheels:
-    * +10% Ward Save
-    * +30% Magic Resistance
-    * +5 MD
-  * Poisoned Wind Globadiers and Death Globe Bombardiers:
-    * +20% Range
-    * +10% Reload Speed
-    * Increased explosion radius and explosion damage
+  * Clanrats:
+    * +10 Armour
+    * +10 Melee Attack
+    * +150% AP-Melee Damage
+    * Enable Unbreakable for Clanrats units
+    * Recruitment Duration -1 for Clanrats units
+    * Grant "Rat Swarm" Ability to all Clanrats units
+    * "Rat Swarm" allow you to summon a unit of Clanrats, has one charge per battle. (Vermintide that does not cost WOM, keep in mind summoned units DO NOT benefit from lord skills and traits!)
 
 # Ikit Claw
 ## Stage 1(level 10)
