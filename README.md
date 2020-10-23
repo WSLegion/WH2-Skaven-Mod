@@ -20,6 +20,7 @@ MD: Melee Defence, MA: Melee Attack, PR: Physical Resistance
   * Stormvermin(both variants):
     * +20 MD
     * +30 PR
+    * Enable "Spare Me!" Ability: Regenerates small amount of health (10 per second) and gain +20% Ward Save while broken(Leadership lower than 0)
   * Stormvermin(Halberd):
     * +18 Anti-Large Bonus
   * Stormvermin(Sword & Shield):
@@ -60,7 +61,7 @@ MD: Melee Defence, MA: Melee Attack, PR: Physical Resistance
     * +10 Melee Attack
     * +150% AP-Melee Damage
     * Enable Unbreakable for Clanrats units
-    * Recruitment Duration -1 for Clanrats units
+    * Recruitment Duration -1 for Clanrats units (This one is mainly for Global recruitment, please correct me if it does not apply to global recruitment)
     * Grant "Rat Swarm" Ability to all Clanrats units
     * "Rat Swarm" allow you to summon a unit of Clanrats, has one charge per battle. (Vermintide that does not cost WOM, keep in mind summoned units DO NOT benefit from lord skills and traits!)
 
