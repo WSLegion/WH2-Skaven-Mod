@@ -28,6 +28,7 @@ MD: Melee Defence, MA: Melee Attack, PR: Physical Resistance
     * +100% AP-Weapon Damage
 
 # Skrolk
+New Contact Effect: "Diseased" (-10% Magic Resistance, -10% Weapon Strength)
 ## Stage 1(level 10)
   * Plague Monks(both variants):
     * +5 MA
@@ -42,8 +43,10 @@ MD: Melee Defence, MA: Melee Attack, PR: Physical Resistance
     * +25% Weapon Damage
     * +10% Ward Save
     * Enable Fatigue Immune
+    * Enable Disease Attack
   * Plagueclaw Catapult:
     * Explosion damage no longer affects allied units
+    * Explosion inflict "Diseased" Effect
 
 # Queek
 ## Stage 1(level 10)
@@ -62,10 +65,13 @@ MD: Melee Defence, MA: Melee Attack, PR: Physical Resistance
     * +150% AP-Melee Damage
     * Enable Unbreakable for Clanrats units
     * Recruitment Duration -1 for Clanrats units (This one is mainly for Global recruitment, please correct me if it does not apply to global recruitment)
-    * Grant "Rat Swarm" Ability to all Clanrats units
+    * Enable "Rat Swarm" Ability to all Clanrats units
     * "Rat Swarm" allow you to summon a unit of Clanrats, has one charge per battle. (Vermintide that does not cost WOM, keep in mind summoned units DO NOT benefit from lord skills and traits!)
+    * Enable "Always More Beside" for Clanrats units
+    * "Always More Beside", recover 720 Health of this unit in 10s, can revive entities. (The idea is to call in reinforcement during a battle, but the game always heal damaged entities first before reviving dead ones. 450s CD, unlimited charge)
 
 # Ikit Claw
+New Contact Effect: "ZZZZZAP" (Stops affected unit from moving for 2 seconds)
 ## Stage 1(level 10)
   * Warpfire Thrower:
     * +10% Range
@@ -78,11 +84,12 @@ MD: Melee Defence, MA: Melee Attack, PR: Physical Resistance
    * +5% Reload Speed
 ## Stage 3(level 30)
   * Warpfire Thrower:
-    * +50% Range
     * +20% Reload Speed
     * Projectiles have increased AP Explosion damage and apply "Suppressed" Effect
+    * Enable "Concentrated Flame" (+250% Missile Strength, +50% Range, -100% Explosion Damage, toggleable)
   * Warplightening Cannon:
     * +10% Reload Speed
+    * Projectile and Explosion inflict "ZZZZZAP"
 
 # Snikch
 ## Stage 1(level 10)
@@ -105,7 +112,7 @@ MD: Melee Defence, MA: Melee Attack, PR: Physical Resistance
     * +15% Range
 ## Stage 3(level 30)
   * Triad, Death Runner and Gutter Runner units:
-    * +20% Speed
+    * Enable "Shadow Stride" (+25% Speed when there is no enemy within 80 range, passive)
   * Triad units:
     * Enable Vanguard Deployment
     * +18 Anti-Large Bonus
