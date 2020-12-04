@@ -20,7 +20,6 @@ MD: Melee Defence, MA: Melee Attack, PR: Physical Resistance
   * Stormvermin(both variants):
     * +20 MD
     * +30 PR
-    * Enable "Spare Me!" Ability: Regenerates small amount of health (10 per second) and gain +20% Ward Save while broken(Leadership lower than 0)
   * Stormvermin(Halberd):
     * +18 Anti-Large Bonus
   * Stormvermin(Sword & Shield):
