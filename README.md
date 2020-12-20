@@ -122,6 +122,7 @@ New Contact Effect: "ZZZZZAP" (Stops affected unit from moving for 2 seconds)
     * +30% Range
 
 # Throt
+Warning: Applying Mutations that give the same ability will not grant another usage of that ability, so don't do that!
 ## Stage 1(level 10)
   * All Moulder Monster units:
     * +5% Missile Resistance
