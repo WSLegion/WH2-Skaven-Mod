@@ -120,3 +120,20 @@ New Contact Effect: "ZZZZZAP" (Stops affected unit from moving for 2 seconds)
   * Gutter Runner units(Does not apply to slinger version):
     * Enable AP Projectile (Like the faction effect of Eshin)
     * +30% Range
+
+# Throt
+## Stage 1(level 10)
+  * All Moulder Monster units:
+    * +5% Missile Resistance
+    * +5% Speed
+## Stage 2(level 20)
+  * All Moulder Monster units:
+    * +5% Physical Resistance
+    * +10% Missile Resistance
+    * +10% Speed
+## Stage 3(level 30)
+  * All Moulder Monster units:
+    * +10% Physical Resistance
+    * +15% Missile Resistance
+    * +10% Speed
+    * Enable "Acidic Musk Gland", "Cellular Instability", "The Hunger" and "Weeping Blade"
