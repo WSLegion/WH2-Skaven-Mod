@@ -21,7 +21,7 @@
     * Enable "Tactical Regroup"
       - Active ability, 60s Duration, 150s CD
       - Upon activation, enter "Retreat" Phase for 10s with following effects:
-      - +40% Ward Save, +20 Melee Defence, -70 Morale
+      - +40% Ward Save, +20 Melee Defence, -70 Morale, heal 62 health every second, can revive entities
       - Afterwards, enter "Regroup" Phase for 50s with following effects:
       - +15% Ward Save, +5 Melee Defence, +10 Melee Attack, +150 Morale
   * Stormvermin(Halberd):
