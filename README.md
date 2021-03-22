@@ -81,6 +81,7 @@ New Contact Effect: "Disease" (-10% Magic Resistance, -10% Weapon Strength)
       - Can be recruited from Clan Armoury (Tier 3 basic Barrack)
       - Has an Aura "Lead by Example", which increase Melee Attack of nearby allies by 10, weapon Strength by 25% and enable Unbreakable for nearby allies
       - Has an active ability "Suicide Bomber", which will summon a unit of Clanrat at the target position, but it will have a bound Warpbomb (Can be activated even if its health is higher than 50%)
+      - Suggested by @Valthejean
     * Enable "Rat Swarm" Ability to all Clanrats units
       - Bound ability, 1 charge per battle
       - Summons a unit of Clanrat
