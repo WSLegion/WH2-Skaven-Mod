@@ -47,7 +47,8 @@ New Contact Effect: "Disease" (-10% Magic Resistance, -10% Weapon Strength)
     * Enable "Miasma"
       - Active ability, 120s Duration, 30s CD
       - While activated, the unit will suffer from -8 Melee Attack
-      - While activated, all enemy units within 60 range will suffer from -12 Melee Attack and -15% Weapon Strength
+      - While activated, all enemy units within 60 range will suffer from -12 Melee Attack and -15% Weapon Strength.
+      - All nearby enemy units will also take small amount of direct damage.
   * Plague Monks(both variants):
     * +20 Melee Attack
     * +25% Weapon Strength
